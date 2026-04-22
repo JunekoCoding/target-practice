@@ -22,3 +22,10 @@ This project is a **physics-based virtual reality interaction prototype**, featu
 * **ColorOrb.cs**: Manages individual entity state, including "home" position memory and out-of-bounds safety checks.
 * **ColorTarget.cs**: Handles collision detection, dynamic material updates, and triggers the audio-visual feedback loop.
 * **ObjectMover.cs**: Implements smooth sinusoidal movement for targets using world-space mathematics.
+
+-- 
+### 🎥 Demo Video
+
+
+https://github.com/user-attachments/assets/71410b18-1fc2-44de-9687-69bedc2ce621
+
